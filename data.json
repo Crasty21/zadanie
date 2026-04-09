@@ -1,0 +1,5 @@
+[
+    {"id":1,"imie":"Jan","nazwisko":"Kowalski","wiek":21,"email":"jan@example.com","kierunek":"Informatyka"},
+    {"id":2,"imie":"Anna","nazwisko":"Nowak","wiek":22,"email":"anna@example.com","kierunek":"Matematyka"},
+    {"id":3,"imie":"Piotr","nazwisko":"Wiśniewski","wiek":20,"email":"piotr@example.com","kierunek":"Fizyka"}
+  ]
